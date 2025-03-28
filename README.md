@@ -36,8 +36,4 @@ This project applies multiple machine learning models to classify breast tumors 
 
 ---
 
-### Usage Notes
 
-1. **Update the file** with your actual file names and folder structure if they differ.  
-2. **Adjust details** (like library versions, environment instructions) to match your actual setup.  
-3. You can also add a **License** section if your instructor or institution provides a specific license for open-sourced or shared assignments.
